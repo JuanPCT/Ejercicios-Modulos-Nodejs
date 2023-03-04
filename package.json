@@ -1,0 +1,19 @@
+{
+  "name": "ejercicios-modulos-nodejs",
+  "version": "1.0.0",
+  "description": "Ejercicios Modulos NodeJs Talenlogy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanPCT/Ejercicios-Modulos-Nodejs.git"
+  },
+  "author": "Juan Pablo Correa Tarazona",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuanPCT/Ejercicios-Modulos-Nodejs/issues"
+  },
+  "homepage": "https://github.com/JuanPCT/Ejercicios-Modulos-Nodejs#readme"
+}

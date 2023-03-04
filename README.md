@@ -1,1 +1,17 @@
 # Ejercicios-Modulos-Nodejs
+
+1. Crea una función que tome un número como argumento y devuelva su doble. Luego, crea otro archivo en el que llames a esta función y muestres el resultado en la consola.
+2. Crea una función que tome un arreglo de números como argumento y devuelva la suma de todos ellos. Luego, crea otro archivo en el que llames a esta función con un arreglo de números y muestres el resultado en la consola.
+3. Crea una función que tome dos números como argumentos y devuelva su suma. Luego, crea otro archivo en el que llames a esta función con dos números y muestres el resultado en la consola.
+4. Crea un módulo que contenga una función que devuelva un saludo personalizado según el nombre que se le pase como argumento. Luego, crea otro archivo en el que llames a esta función con un nombre y muestres el resultado en la consola.
+5. Crea un módulo que contenga una función que devuelva la fecha actual en formato "dd/mm/yyyy". Luego, crea otro archivo en el que llames a esta función y muestres el resultado en la consola.
+6. Crea un módulo que contenga una función que reciba una cadena y devuelva el número de caracteres que contiene. Luego, crea otro archivo en el que llames a esta función con una cadena y muestres el resultado en la consola.
+7. Crea un módulo que contenga una función que reciba un número y devuelva si es par o impar. Luego, crea otro archivo en el que llames a esta función con un número y muestres el resultado en la consola.
+8. Crea un módulo que contenga una función que reciba un arreglo de números y devuelva el mayor de ellos. Luego, crea otro archivo en el que llames a esta función con un arreglo de números y muestres el resultado en la consola.
+9. Crea un módulo que contenga una función que reciba un arreglo de cadenas y devuelva la cadena más larga. Luego, crea otro archivo en el que llames a esta función con un arreglo de cadenas y muestres el resultado en la consola.
+10. Crea un módulo que contenga una función que reciba un objeto con propiedades "nombre" y "apellido" y devuelva el nombre completo en formato "apellido, nombre". Luego, crea otro archivo en el que llames a esta función con un objeto y muestres el resultado en la consola.
+11. Crea un módulo que contenga una función que reciba una cadena y devuelva el número de veces que aparece cada letra en la cadena (sin considerar espacios ni caracteres especiales). Luego, crea otro archivo en el que llames a esta función con una cadena y muestres el resultado en la consola.
+12. Crea un módulo que contenga una función que reciba una cadena y devuelva la cadena invertida. Luego, crea otro archivo en el que llames a esta función con una cadena y muestres el resultado en la consola.
+13. Crea un módulo que contenga una función que reciba un arreglo de objetos con información de estudiantes (nombre, promedio) y devuelva una cadena con el nombre del estudiante con el mayor promedio. Luego, crea otro archivo en el que llames a esta función con un arreglo de estudiantes y muestres el resultado en la consola.
+14. Crea un módulo que contenga una función que reciba un arreglo de números y devuelve la mediana (el valor que está en el centro del arreglo ordenado). Luego, crea otro archivo en el que llames a esta función con un arreglo de números y muestres el resultado en la consola.
+15. Crea un módulo que contenga una función que reciba un número y devuelva un arreglo con los números primos menores o iguales a él. Luego, crea otro archivo en el que llames a esta función con un número y muestres el resultado en la consola.
